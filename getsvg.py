@@ -1,4 +1,3 @@
-from cv2 import *
 from svgpathtools import svg2paths2,wsvg
 
 # Extract path from svg
