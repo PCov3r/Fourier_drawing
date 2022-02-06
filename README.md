@@ -35,5 +35,5 @@ We can get the following result :
 ## What I plan on adding
 
 * Possibility to use jpeg or png images.
-* Improving animation speed by removing circles with a small radius who do not add much to the animation
+* Improving animation speed by removing circles with a small radius which do not add much details
 
