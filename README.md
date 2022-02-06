@@ -13,7 +13,9 @@ From the terminal use `python -m main filename.svg coeffnumber [boolean_show]` w
 
 ### Dependencies
 
-To get the program to work, you need `numpy`, `matplotlib`, `cmath` and `svgpathtools`
+To get the program to work, you need `numpy`, `matplotlib`, `cmath` and `svgpathtools`.
+
+The needed versions can be found in [requirements.txt](/requirements.txt)
 
 
 ## Example
