@@ -7,7 +7,7 @@ drawx = []
 drawy = []
 
 # Add a point on a circle of radius r with a phase of phi + theta
-# In the following functions, theta is used as the first phase, and phi is increasing or decreasing to move the point
+# In the following functions, theta is used as phase #0, and phi is increasing or decreasing to move the point
 def radius_point(phi, r, theta):
     return np.array([r*np.cos(phi+theta), r*np.sin(phi+theta)])
 
