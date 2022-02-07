@@ -3,8 +3,8 @@ from cmath import *
 
 # Compute complex Fourier serie coefficient from points affixes
 # z : list of points
-# Ncoeff : order of the Fourier serie
-# Tau: Period of the transformation
+# Ncoeff : number of coefficients of the Fourier serie
+# Tau: period of the transformation
 def computeCoeff(z, Ncoeff, Tau= 2*pi):
     N = len(z)
     h = Ncoeff // 2
